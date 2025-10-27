@@ -1,3 +1,3 @@
 # ansu-demo
 This is my demo repository
-author - Ansuka Thapaliya
+author - Ansuka Thapaliya (sunway)
